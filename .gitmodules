@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
-	shallow = true
-	registered = true
 [submodule "iCheck"]
 	path = iCheck
 	url = https://git.bioconductor.org/packages/iCheck
-	shallow = true
-	registered = true
