@@ -5,6 +5,3 @@
 [submodule "correctedAUC"]
 	path = correctedAUC
 	url = https://github.com/cran/correctedAUC
-[submodule "iCheck"]
-	path = iCheck
-	url = https://git.bioconductor.org/packages/iCheck
